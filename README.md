@@ -13,3 +13,5 @@ Tried HMM and 3-layer NN, but resulted with accuracy far below expectations
 => plan to divide Korean/English typings + treat each onset, nucleus, and coda(3 components of one Korean syllable) differently
 
 => + deeper NN
+
+key logger demo(youtube): https://youtu.be/7cHTeMVwwGk
